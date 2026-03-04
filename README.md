@@ -2,7 +2,7 @@
 
 Source link:
 - Tableau: https://public.tableau.com/app/profile/muhammad.arief.munazat/viz/HotelBookingAnalysis_17720479259720/ExecutiveDashboard?publish=yes
-- Strimlit: 
+- Strimlit: https://hotel-team-beta.streamlit.app/
 
 Team:
 - Muhammad Arief Munazat
